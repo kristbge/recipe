@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-* 0.2 tbs cinanto
-=======
+* 0.5 tbs cinanto=
 * 2 tbs cinanto
 >>>>>>> like-cilantro
-* 2 avocados
-* 1 chili
+* 2 avocado
+ 1 chili
 * 1 lime
 * 1 tsp salt
 * 1/2 onion
